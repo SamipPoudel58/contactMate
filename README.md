@@ -2,4 +2,4 @@
 
 This is a contacts keeping app made with React (Hooks + Context API)
 
-![screenshot]: (./public/preview.png)
+![screenshot]:(file://images/preview.png)
